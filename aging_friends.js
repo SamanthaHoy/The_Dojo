@@ -1,4 +1,4 @@
-var string = 'Xola is 23, Peter is 18, Oya is 29, Ellie is 20, Sive is 27';
+var string = 'Xola is 13, Peter is 18, Oya is 29, Ellie is 20, Sive is 27';
 var newString1 = string.replace(/is /g,"");
 console.log(newString1);
 console.log('______');
